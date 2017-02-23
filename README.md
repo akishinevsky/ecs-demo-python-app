@@ -1,1 +1,0 @@
-# ecs-demo-python-app
